@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: server
-          image: viswa241089/multi-server-dev
+          image: viswa2489/multi-server-dev
           ports:
             - containerPort: 5000
           env:

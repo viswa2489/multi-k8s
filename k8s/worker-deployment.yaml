@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: worker
-          image: viswa241089/multi-worker
+          image: viswa2489/multi-worker
           env:
             - name: REDIS_HOST
               value: redis-cluster-ip-service
